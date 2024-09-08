@@ -1,0 +1,17 @@
+{
+  "name": "cover-palette",
+  "version": "1.0.0",
+  "description": "CoverPalette is a web app that uses Google's Books API to retrieve book covers and lets users customize them by selecting different background colors, creating unique and aesthetic designs for book collections or databases.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^1.1.1",
+    "node-fetch": "^3.3.2"
+  }
+}
